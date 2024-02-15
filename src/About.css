@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(37, 22, 1);
+    color:#fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+}
+.flyer{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0%;
+    left: 40px;
+   
+}
+
+.flyer img{
+    height: 70%;
+    position: absolute;
+    left: 90%;
+    bottom: 25%;
+}
+.goood{
+width: 100%; 
+height: 100%;
+position: absolute;
+top: 0;
+border-radius: 7px;
+cursor: pointer;
+background: linear-gradient(rgba(0,0,0,0.5),#120450);
+opacity: 1;
+}
+.mine{
+    margin-top: 10%;
+    margin-left: 40px;
+}
+.mine h1{
+    margin: auto;
+    font-size: 20px;
+    color: #989999;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    left: 10px;
+}
+
+
+
